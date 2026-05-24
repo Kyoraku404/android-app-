@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+mss
+opencv-python
+numpy
+websockets
+requests
+sounddevice
+pyaudio
